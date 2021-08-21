@@ -22,10 +22,10 @@ Soon, image fields, checkbox fields, input fields and etc will be possible.
 `this library is compatible to androidx`
 
 ## Preview
-<!-- ![screenshot 1](https://github.com/salehyarahmadi/DataTable/blob/master/1.jpg)
-![screenshot 2](https://github.com/salehyarahmadi/DataTable/blob/master/2.jpg)
-![screenshot 3](https://github.com/salehyarahmadi/DataTable/blob/master/3.jpg)
-![screenshot 4](https://github.com/salehyarahmadi/DataTable/blob/master/4.jpg) -->
+![screenshot 1](https://github.com/Sujan-Murugesh/DataTable/blob/main/1.jpg)
+![screenshot 2](https://github.com/Sujan-Murugesh/DataTable/blob/main/2.jpg)
+![screenshot 3](https://github.com/Sujan-Murugesh/DataTable/blob/main/3.jpg)
+<!-- ![screenshot 4](https://github.com/Sujan-Murugesh/DataTable/blob/main/4.jpg) -->
 
 ## Setup
 The simplest way to use this library is to add the library as dependency to your build.
