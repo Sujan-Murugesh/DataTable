@@ -14,7 +14,7 @@ Soon, image fields, checkbox fields, input fields and etc will be possible.
 
 **This library is also available at JitPack.io**
 
-[![](https://jitpack.io/v/salehyarahmadi/DataTable.svg)](https://jitpack.io/#salehyarahmadi/DataTable)
+[![](https://jitpack.io/v/Sujan-Murugesh/DataTable.svg)](https://jitpack.io/#Sujan-Murugesh/DataTable)]
 
 
 
@@ -22,10 +22,10 @@ Soon, image fields, checkbox fields, input fields and etc will be possible.
 `this library is compatible to androidx`
 
 ## Preview
-![screenshot 1](https://github.com/salehyarahmadi/DataTable/blob/master/1.jpg)
+<!-- ![screenshot 1](https://github.com/salehyarahmadi/DataTable/blob/master/1.jpg)
 ![screenshot 2](https://github.com/salehyarahmadi/DataTable/blob/master/2.jpg)
 ![screenshot 3](https://github.com/salehyarahmadi/DataTable/blob/master/3.jpg)
-![screenshot 4](https://github.com/salehyarahmadi/DataTable/blob/master/4.jpg)
+![screenshot 4](https://github.com/salehyarahmadi/DataTable/blob/master/4.jpg) -->
 
 ## Setup
 The simplest way to use this library is to add the library as dependency to your build.
@@ -48,8 +48,8 @@ Step 2. Add the dependency
 ```gradle
 // builde.gradle(app level)
 dependencies {
-    implementation 'com.github.salehyarahmadi:DataTable:v1.0.1'
-}
+	        implementation 'com.github.Sujan-Murugesh:DataTable:f6f2aa848d'
+	}
 ```
  
 
